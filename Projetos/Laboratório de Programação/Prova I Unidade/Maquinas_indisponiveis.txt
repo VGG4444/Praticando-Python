@@ -1,0 +1,1 @@
+Maquina: Galo;  codigo: 444;  marca:Cleito;  modelo:Rasta; ano:1420;  valor:1000.0; I

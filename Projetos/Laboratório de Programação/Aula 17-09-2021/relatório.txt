@@ -1,0 +1,9 @@
+Nome: jorge
+espaço: 200000.0
+
+Nome: cleiton
+espaço: 50000.0
+
+Nome: cleiton
+Espaco em disco: 20.0MB
+
